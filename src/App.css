@@ -1,0 +1,17 @@
+.link.active {
+  color: #c50f2f;
+  font-weight: bold;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userName {
+  width: 150px;
+  border: 2px solid #912aec;
+  padding: 5px 20px;
+  margin: 5px;
+}
